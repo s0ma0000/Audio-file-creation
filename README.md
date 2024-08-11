@@ -1,3 +1,4 @@
+![Voice Recording](https://github.com/your-username/Audio-file-creation/blob/main/voice01/スクリーンショット%202024-08-12%200.32.38.png)
 
 # Audio-File-Creation-Guide
 
