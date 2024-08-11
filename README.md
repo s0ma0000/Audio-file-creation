@@ -1,3 +1,6 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RCpMaNhd7SOX1UiODjviNK9C7qAPO6sS#scrollTo=5kT6JnXEy77f)
+
+
 # Audio-File-Creation-Guide
 
 This project provides a step-by-step guide on how to create audio files using QuickTime Player on macOS. The guide is intended to help users record audio from their microphone and save it in the `.m4a` format.
