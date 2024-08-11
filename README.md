@@ -1,5 +1,3 @@
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RCpMaNhd7SOX1UiODjviNK9C7qAPO6sS#scrollTo=5kT6JnXEy77f)
-
 
 # Audio-File-Creation-Guide
 
