@@ -1,5 +1,3 @@
-<img src="https://github.com/s0ma0000/Audio-file-creation/blob/main/voice01/voice.png" alt="Voice Recording" width="400" height="300">
-
 
 # Audio-File-Creation-Guide
 
@@ -38,6 +36,9 @@ This project includes a detailed guide on using QuickTime Player to record audio
 
 - Simple and straightforward guide for audio recording using QuickTime Player.
 - The recorded audio file is saved in `.m4a` format, which is compatible with many media players and devices.
+
+
+<img src="https://github.com/s0ma0000/Audio-file-creation/blob/main/voice01/voice.png" alt="Voice Recording" width="200" height="400">
 
 ## Author
 
