@@ -1,4 +1,5 @@
-![Voice Recording](https://github.com/s0ma0000/Audio-file-creation/blob/main/voice01/voice.png)
+<img src="https://github.com/s0ma0000/Audio-file-creation/blob/main/voice01/voice.png" alt="Voice Recording" width="400" height="300">
+
 
 # Audio-File-Creation-Guide
 
